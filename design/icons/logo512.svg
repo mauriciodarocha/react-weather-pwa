@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg881"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo512.svg"
+   inkscape:export-filename="C:\apps\lab\challenges\inceres\weather-forecast-app\public\logo512.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs875" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5058595"
+     inkscape:cx="214.54253"
+     inkscape:cy="254.71891"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata878">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#aaccff;stroke-width:8.61342;stroke-linecap:round;stroke-dasharray:34.4538, 17.2269"
+       id="rect6576"
+       width="135.46666"
+       height="135.46666"
+       x="0.1003059"
+       y="0.1003059" />
+    <g
+       id="g2099"
+       transform="matrix(1.6421629,0,0,1.6421629,-10.733543,-27.380062)">
+      <g
+         id="g2058-0"
+         transform="matrix(0.43304834,0,0,0.43304834,11.365835,24.839645)">
+        <circle
+           style="fill:#ffe680;stroke-width:0.285749"
+           id="path563-3-9-3"
+           cx="47.782639"
+           cy="56.863071"
+           r="38.667923" />
+        <circle
+           style="fill:#ffdd55;stroke-width:0.261326"
+           id="path563-3-3"
+           cx="47.782639"
+           cy="56.863071"
+           r="35.362972" />
+        <circle
+           style="fill:#ff6600;stroke-width:0.19774"
+           id="path563-5"
+           cx="47.782639"
+           cy="56.863071"
+           r="26.758333" />
+      </g>
+      <path
+         id="path563-8"
+         style="fill:#ffffff;stroke-width:0.137436"
+         d="m 53.433581,38.683766 c -10.111034,1.7e-5 -18.3697,8.077951 -18.593407,18.18651 -2.25118,-1.401054 -4.849737,-2.143664 -7.501295,-2.143703 -7.840633,8.5e-5 -14.196908,6.549036 -14.196785,14.196786 1.23e-4,7.64775 4.87668,13.873742 14.059141,13.712334 9.182461,-0.161408 27.938157,-0.128388 34.693235,0 13.06761,0 20.452514,-2.968805 20.528713,-12.325606 0.0762,-9.356801 -4.853089,-11.639126 -10.399522,-13.55036 C 71.741065,46.695838 63.501437,38.684082 53.433581,38.683766 Z"
+         sodipodi:nodetypes="ccczzczcc" />
+    </g>
+  </g>
+</svg>

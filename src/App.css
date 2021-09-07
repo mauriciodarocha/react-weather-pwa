@@ -1,0 +1,195 @@
+:root {
+    --font-default: 300;
+    --font-bold: 700;
+    --font-color: rgb(90, 90, 90);
+    --color-default: #d7eef4;
+    --color-sun: #ffeeaa;
+    --color-cloudy: #c8c8c8;
+    --color-rain: #abd2ff;
+    --color-thunder: #cecfde;
+}
+.app, input {
+    font-family: 'Roboto', sans-serif;
+    font-weight: var(--font-default);
+    color: var(--font-color);
+}
+.app .wrapper {
+    margin: auto;
+    box-sizing: border-box;
+    background-size: 100%;
+    overflow: hidden;
+}
+.header {
+    position: absolute;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.main {
+    min-height: 100vh;
+    max-height: 100vh;
+}
+.weather-app {
+    padding: 20px;
+    min-height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--color-default);
+}
+nav {
+    font-size: 11px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    padding: 0 8px;
+    display: inline-block;
+    border-left: 1px solid #333;
+    color: var(--font-color);
+}
+nav span:first-child a {
+    border-left: 0;
+}
+nav .active {
+    font-weight: var(--font-bold);
+}
+.date {
+    font-size: 12px;
+    padding-top: 11px;
+}
+.search-field {
+    padding-top: 8px;
+}
+.search:-internal-autofill-selected {
+    background: none;
+}
+.search {
+    background: none;
+    border: 0 none;
+    padding: 0;
+    font-size: 18px;
+}
+.temperature {
+    font-size: 90px;
+    line-height: 96px;
+    margin-top: -10px;
+    transition: all 1s ease-in;
+}
+.condition {
+    font-size: 20px;
+    margin-right: -20px;
+    border-bottom: 1px solid var(--font-color);
+    padding-bottom: 4px;
+}
+.weather-icon {
+    height: 220px;
+    margin-top: -10px;
+    background: url(./assets/icons/sun.svg) center center no-repeat;
+    background-size: auto 95%;
+    transition: all 1s ease-in;
+}
+.forecast-ctn {
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+    margin-right: -20px;
+}
+.forecast-ctn .f-item {
+    opacity: 0;
+    margin-top: 20px;
+    transition: all 0.8s ease-in;
+    position: relative;
+    display: flex;
+    border-bottom: 1px dotted var(--font-color);
+    padding-right: 20px;
+}
+.show-week .forecast-ctn { 
+    max-height: none;
+    overflow: auto;
+}
+.show-week .forecast-ctn .f-item {
+    opacity: 1;
+    margin-top: 0;
+}
+
+/*week*/
+.show-week .weather-icon {
+    height: 167px;
+    margin-top: -28px;
+    margin-left: 32%;
+}
+.show-week .temperature {
+    margin-top: -45px;
+}
+.f-col {
+    padding: 7px;
+    vertical-align: bottom;
+    display: flex;
+    align-items: center;
+}
+.f-col-day {
+    flex-grow: 1;
+}
+.f-col-min-max {
+    min-width: 60px;
+    justify-content: flex-end;
+}
+.f-day {
+    width: 50px;
+}
+.f-day span {
+    display: block;
+    text-align: center;
+}
+.f-min-max {
+    font-size: 22px;
+    text-align: right;
+}
+.f-min::before {
+    content: 'min.';
+    display: block;
+    font-size: 9px;
+}
+.f-max::before {
+    content: 'max.';
+    display: block;
+    font-size: 9px;
+}
+.f-min-max::after {
+    content: "\00b0";
+}
+
+/*weather-icon*/
+.overcast .weather-icon,
+.cloudy .weather-icon,
+.partly-cloudy .weather-icon {
+    background-image: url(./assets/icons/cloudy.svg);
+}
+.light-rain .weather-icon, 
+.moderate-rain .weather-icon, 
+.heavy-rain .weather-icon {
+    background-image: url(./assets/icons/rain.svg);
+}
+.patchy-light-rain-with-thunder .weather-icon, 
+.moderate-or-heavy-rain-with-thunder .weather-icon
+{
+    background-image: url(./assets/icons/thunder.svg);
+}
+
+/*weather-app background*/
+.sunny {
+    background-color: var(--color-sun);
+}
+.overcast,
+.cloudy,
+.partly-cloudy {
+    background-color: var(--color-cloudy);
+}
+.light-rain, 
+.moderate-rain, 
+.heavy-rain {
+    background-color: var(--color-rain);
+}
+.patchy-light-rain-with-thunder, 
+.moderate-or-heavy-rain-with-thunder {
+    background-color: var(--color-thunder);
+}

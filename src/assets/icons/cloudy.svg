@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375001"
+   version="1.1"
+   id="svg881"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cloudy.svg">
+  <defs
+     id="defs875" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6377645"
+     inkscape:cx="147"
+     inkscape:cy="146.05223"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata878">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2099"
+       transform="translate(-8.0951385,-18.232086)">
+      <g
+         id="g2058-0"
+         transform="matrix(0.43304834,0,0,0.43304834,11.365835,24.839645)">
+        <circle
+           style="fill:#ffe680;stroke-width:0.285749"
+           id="path563-3-9-3"
+           cx="47.782639"
+           cy="56.863071"
+           r="38.667923" />
+        <circle
+           style="fill:#ffdd55;stroke-width:0.261326"
+           id="path563-3-3"
+           cx="47.782639"
+           cy="56.863071"
+           r="35.362972" />
+        <circle
+           style="fill:#ff6600;stroke-width:0.19774"
+           id="path563-5"
+           cx="47.782639"
+           cy="56.863071"
+           r="26.758333" />
+      </g>
+      <path
+         id="path563-8"
+         style="fill:#ffffff;stroke-width:0.137436"
+         d="M 53.433581,38.683766 A 18.597991,18.597991 0 0 0 34.840174,56.870276 14.196939,14.196939 0 0 0 27.338879,54.726573 14.196939,14.196939 0 0 0 13.142094,68.923359 14.196939,14.196939 0 0 0 26.345278,83.084848 v 0.0353 h 0.993601 0.09923 41.64004 2.980807 V 82.783174 A 13.345122,13.345122 0 0 0 82.423183,69.775114 13.345122,13.345122 0 0 0 72.023661,56.759727 18.597991,18.597991 0 0 0 53.433581,38.683766 Z" />
+    </g>
+  </g>
+</svg>

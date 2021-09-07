@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="360"
+   height="640"
+   viewBox="0 0 95.250003 169.33333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="weather-forecast-app-week.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2008498"
+     inkscape:cx="180.92397"
+     inkscape:cy="324.75773"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d7eef4;fill-rule:evenodd;stroke-width:0.0702388;fill-opacity:1"
+       id="rect10"
+       width="95.25"
+       height="169.33333"
+       x="0.15763855"
+       y="0.28024545" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.183393;-inkscape-font-specification:'Roboto, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="6.6585407"
+       y="27.872087"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="6.6585407"
+         y="27.872087"
+         style="font-size:6.35px;fill:#4d4d4d;stroke-width:0.183393;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">São Paulo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:300;font-size:34.5722px;line-height:1.25;font-family:Roboto;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.872197;-inkscape-font-specification:'Roboto, Light';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="3.3092167"
+       y="59.987759"
+       id="text14-3"><tspan
+         sodipodi:role="line"
+         id="tspan12-3"
+         x="3.3092167"
+         y="59.987759"
+         style="font-size:34.57219934px;fill:#4d4d4d;stroke-width:0.872197;-inkscape-font-specification:'Roboto, Light';font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">18°</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:300;font-size:4.23333px;line-height:1.25;font-family:Roboto;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.089058;-inkscape-font-specification:'Roboto, Light';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="6.9072747"
+       y="18.256422"
+       id="text14-2"><tspan
+         sodipodi:role="line"
+         id="tspan12-33"
+         x="6.9072747"
+         y="18.256422"
+         style="font-size:4.2333298px;text-align:start;text-anchor:start;fill:#4d4d4d;stroke-width:0.089058;-inkscape-font-specification:'Roboto, Light';font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Sábado, 04 de setembro de 2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:300;font-size:6.35px;line-height:1.25;font-family:Roboto;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.163095;-inkscape-font-specification:'Roboto, Light';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="6.5018196"
+       y="71.555222"
+       id="text14-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan12-33-5"
+         x="6.5018196"
+         y="71.555222"
+         style="font-size:6.35px;text-align:start;text-anchor:start;fill:#4d4d4d;stroke-width:0.163095;-inkscape-font-specification:'Roboto, Light';font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Parcialmente nublado</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.0697725"
+       id="rect94"
+       width="88.352371"
+       height="0.44066015"
+       x="7.142096"
+       y="75.492874" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';text-align:end;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.089058;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="44.26968"
+       y="9.0379171"
+       id="text14-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan12-33-0"
+         x="44.26968"
+         y="9.0379171"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055993px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';text-align:end;text-anchor:end;fill:#4d4d4d;stroke-width:0.089058;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Hoje</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.089058;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="50.684383"
+       y="9.0379171"
+       id="text14-2-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan12-33-0-0"
+         x="50.684383"
+         y="9.0379171"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055993px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;text-anchor:start;fill:#4d4d4d;stroke-width:0.089058;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Semana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.089058"
+       x="46.971291"
+       y="9.0379171"
+       id="text14-2-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan12-33-0-4"
+         x="46.971291"
+         y="9.0379171"
+         style="font-size:3.88056px;text-align:start;text-anchor:start;fill:#4d4d4d;stroke-width:0.089058">|</tspan></text>
+    <g
+       id="g106"
+       transform="translate(0,1.0896555)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.604297"
+         x="59.71035"
+         y="90.579117"
+         id="text14-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan12-3-1"
+           x="59.71035"
+           y="90.579117"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#4d4d4d;stroke-width:0.604297">18°</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.089058"
+         x="30.263254"
+         y="87.957062"
+         id="text14-2-4-1"><tspan
+           sodipodi:role="line"
+           id="tspan12-33-57-6"
+           x="30.263254"
+           y="87.957062"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#4d4d4d;stroke-width:0.089058">Min.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.604297"
+         x="92.647842"
+         y="90.579117"
+         id="text14-3-9-6"><tspan
+           sodipodi:role="line"
+           id="tspan12-3-1-0"
+           x="92.647842"
+           y="90.579117"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#4d4d4d;stroke-width:0.604297">18°</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.089058"
+         x="63.200748"
+         y="87.926743"
+         id="text14-2-4-1-8"><tspan
+           sodipodi:role="line"
+           id="tspan12-33-57-6-6"
+           x="63.200748"
+           y="87.926743"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#4d4d4d;stroke-width:0.089058">Max.</tspan></text>
+    </g>
+    <g
+       id="g96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.365123"
+         x="14.165742"
+         y="91.710114"
+         id="text14-3-9-77"><tspan
+           sodipodi:role="line"
+           id="tspan12-3-1-51"
+           x="14.165742"
+           y="91.710114"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.365123">05</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0872713;"
+         x="14.192441"
+         y="83.820847"
+         id="text14-2-4-1-3"><tspan
+           sodipodi:role="line"
+           id="tspan12-33-57-6-3"
+           x="10.749068"
+           y="83.820847"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777996px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.0872713;">Dom</tspan></text>
+    </g>
+  </g>
+</svg>
